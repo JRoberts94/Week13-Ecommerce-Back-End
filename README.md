@@ -10,7 +10,7 @@
 - [Demo](#demo)
 
 ## Demo
-[Demo Walkthrough Video]()
+[Demo Walkthrough Video](https://watch.screencastify.com/v/ujmFFIxxYrhcRGD7yHrh)
 
 ## Description
 This Projects task was to write code for an e-commerce back end server. our task was to finish and configure the route endpoints for GET, POST, PUT and DELETE requests using express and sequelize to communicate with the mySQL database.
@@ -46,8 +46,9 @@ Email: jake.shaun.roberts1994@gmail.com
 
 ## Deployment
 ![demo-image](/demo/week13-screenshot.PNG)
-<br>
-[GitHub repo](https://github.com/JRoberts94/Week13-Ecommerce-Back-End)
+
+## Repository
+[GitHub - JRoberts94](https://github.com/JRoberts94/Week13-Ecommerce-Back-End)
 
 ## Technology used
 javascript <br> node.js <br> npm <br> mysql <br> express.js <br> insomnia <br> sequelize
