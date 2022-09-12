@@ -20,11 +20,19 @@ You can view my demonstration video from the link above.
 ## Installation Instructions
 Start by cloning the repository to your local machine
  <br> 
- open the folder in VScode (or a coding app similiar) 
+ Open the folder in VScode 
  <br> 
- in the console, type npm install 
- <br> 
- type: node server.js (to run the app)
+ In the console in main directory type: npm install 
+ <br>
+ Then select or cd into db folder and in the terminal, connect to your sql databse
+ <br>
+ Then type: source schema.sql
+ <br>
+ Then in main directory terminal type: npm run seed
+ <br>
+ Type: node server.js (to run the app)
+ <br>
+ Proceed to insomnia to test end points
 
 ## Usage Information
 test and learning
